@@ -12,7 +12,7 @@
 
 <div align="center">
 
-![Header Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUOBiFq0Iqb-sVORZ5MEdWe0kJs94pQyWOGA&s) <!-- Replace with an actual image URL for a more attractive look -->
+![Header Image](https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg) <!-- Replace with an actual image URL for a more attractive look -->
 
 </div>
 
