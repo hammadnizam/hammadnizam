@@ -12,14 +12,14 @@
 
 <div align="center">
 
-![Header Image](https://www.shutterstock.com/image-photo/igniting-innovation-harnessing-power-coding-600nw-2425426569.jpg) <!-- Replace with an actual image URL for a more attractive look -->
+![My Image](https://www.shutterstock.com/image-photo/igniting-innovation-harnessing-power-coding-600nw-2425426569.jpg) <!-- Replace with an actual image URL for a more attractive look -->
 
 </div>
 
 ---
 
 ### 🌍 About Me
-Based in **[Your Location]**, I’m a passionate full-stack developer dedicated to crafting exceptional web experiences. I thrive at the intersection of design and technology, continuously seeking to elevate user engagement through innovative solutions.
+Based in **[Karachi]**, I’m a passionate full-stack developer dedicated to crafting exceptional web experiences. I thrive at the intersection of design and technology, continuously seeking to elevate user engagement through innovative solutions.
 
 ---
 
@@ -47,10 +47,10 @@ Based in **[Your Location]**, I’m a passionate full-stack developer dedicated 
 ---
 
 ### 💻 Notable Projects
-- **[Project Name 1](link-to-your-project1)**  
+- **[Prime Design Crew](https://pdrdesign.netlify.app/)**  
   *🌐 A revolutionary application that [brief description]. Technologies: [Tech Stack].*
 
-- **[Project Name 2](link-to-your-project2)**  
+- **[Prime Wireless Hub](https://primewirelesshub.netlify.app/)**  
   *✨ An innovative tool designed for [brief description]. Built with: [Tech Stack].*
 
 - **[Project Name 3](link-to-your-project3)**  
@@ -60,7 +60,7 @@ Based in **[Your Location]**, I’m a passionate full-stack developer dedicated 
 
 ### 📫 Let's Connect!
 I’m always open to collaboration and new opportunities. Feel free to reach out!  
-- ✉️ **Email:** [Your Email]  
+- ✉️ **Email:** [hammadnizam65@gmail.com]  
 - 🌐 **LinkedIn:** [Your LinkedIn URL]  
 - 🐦 **Twitter:** [Your Twitter URL]  
 
