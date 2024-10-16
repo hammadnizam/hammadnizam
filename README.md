@@ -12,7 +12,7 @@
 
 <div align="center">
 
-![Header Image]([https://via.placeholder.com/800x200.png?text=Your+Personal+Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpONVq-8B8ZJzxiQH51Kme1tjqSszEXY-H2Q&s)) <!-- Replace with an actual image URL for a more attractive look -->
+![Header Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUOBiFq0Iqb-sVORZ5MEdWe0kJs94pQyWOGA&s) <!-- Replace with an actual image URL for a more attractive look -->
 
 </div>
 
