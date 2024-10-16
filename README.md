@@ -1,8 +1,12 @@
 # 👋🌟 Meet [Muhammad Hammad] - Your Full Stack Development Partner!
+<div align="center">
+
 # 🌟 Welcome to My GitHub Profile! 🌟
 
 ## I'm **Muhammad Hammad**  
 ### Full-Stack Developer | Tech Innovator | Creative Problem Solver
+
+</div>
 
 ---
 
