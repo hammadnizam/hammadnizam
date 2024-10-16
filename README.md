@@ -1,10 +1,18 @@
 # 👋🌟 Meet [Muhammad Hammad] - Your Full Stack Development Partner!
 <div align="center">
 
-# ✨ Welcome to My GitHub Profile! ✨
+# 🌟 Welcome to My GitHub Profile! 🌟
 
-# 🌟 **Muhammad Hammad** 🌟  
+## ✨ **Muhammad Hammad** ✨  
 ### *Full-Stack Developer | Tech Innovator | Creative Problem Solver*
+
+</div>
+
+---
+
+<div align="center">
+
+![Header Image]([https://via.placeholder.com/800x200.png?text=Your+Personal+Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpONVq-8B8ZJzxiQH51Kme1tjqSszEXY-H2Q&s)) <!-- Replace with an actual image URL for a more attractive look -->
 
 </div>
 
@@ -40,13 +48,13 @@ Based in **[Your Location]**, I’m a passionate full-stack developer dedicated 
 
 ### 💻 Notable Projects
 - **[Project Name 1](link-to-your-project1)**  
-  *A revolutionary application that [brief description]. Technologies: [Tech Stack].*
+  *🌐 A revolutionary application that [brief description]. Technologies: [Tech Stack].*
 
 - **[Project Name 2](link-to-your-project2)**  
-  *An innovative tool designed for [brief description]. Built with: [Tech Stack].*
+  *✨ An innovative tool designed for [brief description]. Built with: [Tech Stack].*
 
 - **[Project Name 3](link-to-your-project3)**  
-  *A comprehensive solution for [brief description]. Developed using: [Tech Stack].*
+  *🚀 A comprehensive solution for [brief description]. Developed using: [Tech Stack].*
 
 ---
 
@@ -58,9 +66,12 @@ I’m always open to collaboration and new opportunities. Feel free to reach out
 
 ---
 
-### 🌟 Thank You for Visiting!
-Together, let's create extraordinary digital experiences! 🚀
+<div align="center">
 
+### 🌟 Thank You for Visiting!
+*Together, let's create extraordinary digital experiences!* 🚀
+
+</div>
 
 
 <!--
