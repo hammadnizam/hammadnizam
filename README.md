@@ -12,7 +12,7 @@
 
 <div align="center">
 
-![Header Image](https://cdn.sanity.io/images/tlr8oxjg/production/1ca7b34a8d5308a03ae186dfe72caabce0327fe2-1456x816.png?w=3840&q=100&fit=clip&auto=format) <!-- Replace with an actual image URL for a more attractive look -->
+![Header Image](https://www.shutterstock.com/image-photo/igniting-innovation-harnessing-power-coding-600nw-2425426569.jpg) <!-- Replace with an actual image URL for a more attractive look -->
 
 </div>
 
